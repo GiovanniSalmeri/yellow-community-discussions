@@ -1,6 +1,6 @@
 # Yellow community discussions
 
-Ask and answer questions about Datenstrom Yellow. [View all discussions](https://github.com/datenstrom/yellow-community-discussions/discussions).
+Ask and answer questions about Datenstrom Yellow. [View all discussions](https://github.com/GiovanniSalmeri/yellow-community-discussions/discussions).
 
 ## How to ask a question
 
@@ -9,20 +9,15 @@ Ask and answer questions about Datenstrom Yellow. [View all discussions](https:/
 * Explain what you have done to solve the problem.
 * Select an answer, when the question has been answered.
 
-## How to report a bug
+## How to get started
 
-* Explain how to reproduce the bug and provide detailed information.
-* Add the version number and log file `system/extensions/yellow-website.log`.
-* Check if the bug occurs in a brand new installation.
-* Select an answer, when the bug has been fixed.
+- How to ask good questions? - [see #757](https://github.com/GiovanniSalmeri/yellow-community-discussions/discussions/757)
+- Can I answer my own question? - [see #1032](https://github.com/GiovanniSalmeri/yellow-community-discussions/discussions/1032)
+- Can I see only unanswered questions? - [see here](https://github.com/GiovanniSalmeri/yellow-community-discussions/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created)
+- Why was my question flagged or deleted? - [see #734](https://github.com/GiovanniSalmeri/yellow-community-discussions/discussions/734)
 
-## Where to find information for new users
+## What are the guidelines
 
-This community is a place to help each other. Where you can ask and answer questions. Most answers are provided by people, just like you. Use an online translator if English is not your first language. While every question deserves a chance to be answered, after a while there's an increasingly small chance that an answer will be provided. That's why unanswered questions will be deleted after 365 days. We assume that questions that interest our community will be discussed and answered. Contributions which do not follow the contributing guidelines may be flagged or deleted by a maintainer. Don't force anything. You can step out of discussions at any time if they are not constructive. Move on if you find yourself in a situation where you have nothing to contribute or learn. If you find our community helpful, give something back, for example by answering questions and pointing people to the relevant documentation. Remember this is a place to help each other.
+This community is a place to help each other. Where you can ask and answer questions. Most answers are provided by people, just like you. Use an online translator if English is not your first language. While every question deserves a chance to be answered, after a while there's an increasingly small chance that an answer will be provided. That's why unanswered questions will be deleted after 365 days. We assume that questions that interest our community will be discussed and answered. Before you ask questions yourself, familiarise yourself with how to ask good questions, for example by reading the tips above. Contributions which do not follow the guidelines may be flagged or deleted. Don't force anything. Remember this is a place to help each other. 
 
-- How to ask good questions? - [see #757](https://github.com/datenstrom/yellow-community-discussions/discussions/757)
-- How to write good bug reports? - [see #759](https://github.com/datenstrom/yellow-community-discussions/discussions/759)
-- Can I answer my own discussion? - [see #1032](https://github.com/datenstrom/yellow-community-discussions/discussions/1032)
-- Why was my discussion flagged or deleted? - [see #734](https://github.com/datenstrom/yellow-community-discussions/discussions/734)
-
-If you have feedback, contact a maintainer.
+If you find our community helpful, give something back, for example by answering questions.
